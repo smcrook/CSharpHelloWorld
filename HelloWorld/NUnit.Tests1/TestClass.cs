@@ -17,10 +17,6 @@ namespace NUnit.Tests1
             Assert.Pass("Your first passing test");
         }
 
-        [Test]
-        public void FailMethod()
-        {
-            Assert.Fail("We Expect to fail");
-        }
+        
     }
 }
