@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program
+namespace NUnit.Tests1
 {
     [TestFixture]
-    public class ProgramTest
+    public class TestClass
     {
         [Test]
         public void TestMethod()
